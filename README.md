@@ -4,19 +4,19 @@
 Este projeto é um aplicativo CRUD dinâmico desenvolvido em Java usando Maven e JavaFX. Ele permite realizar operações de **Create (Criar)**, **Read (Ler)**, **Update (Atualizar)** e **Delete (Excluir)** em um banco de dados relacional, com uma interface gráfica moderna e responsiva.
 
 ### Tela de conexão
-[![Tela de conexão](DynaCRUD/src/resources/TelaConexão.PNG)]
+![Tela de conexão](DynaCRUD/src/resources/TelaConexão.PNG)
 
 ### Tela principal
-[![Tela principal](DynaCRUD/src/resources/TelaPrincipal.PNG)]
-[![Tela principal selecionada](DynaCRUD/src/resources/TelaPrincipalSelecionada.PNG)]
+![Tela principal](DynaCRUD/src/resources/TelaPrincipal.PNG)
+![Tela principal selecionada](DynaCRUD/src/resources/TelaPrincipalSelecionada.PNG)
 
 ### Telas criar schema e tabela
-[![Tela criar schema](DynaCRUD/src/resources/TelaCriarSchema.PNG)]
-[![Tela criar tabela](DynaCRUD/src/resources/TelaCriarTabela.PNG)]
+![Tela criar schema](DynaCRUD/src/resources/TelaCriarSchema.PNG)
+![Tela criar tabela](DynaCRUD/src/resources/TelaCriarTabela.PNG)
 
 ### Telas criar e atualizar registro
-[![Tela criar registro](DynaCRUD/src/resources/TelaCriarRegistro.PNG)]
-[![Tela atualizar registro](DynaCRUD/src/resources/TelaAtualizarRegistro.PNG)]
+![Tela criar registro](DynaCRUD/src/resources/TelaCriarRegistro.PNG)
+![Tela atualizar registro](DynaCRUD/src/resources/TelaAtualizarRegistro.PNG)
 
 ## Recursos
 - Interface gráfica intuitiva e fácil de usar.
