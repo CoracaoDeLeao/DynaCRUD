@@ -1,0 +1,43 @@
+# Diretórios e arquivos do Eclipse
+.metadata
+.settings/
+.loadpath
+.recommenders
+.externalToolBuilders/
+*.launch
+
+# Arquivos de construção do Eclipse (ex: compilação)
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# Arquivos específicos do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos de compilação e log
+*.class
+*.log
+
+# Arquivos de pacotes
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Arquivos de erro do Java
+hs_err_pid*
